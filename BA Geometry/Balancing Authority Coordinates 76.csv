@@ -1,0 +1,79 @@
+BA Code,BA Name,Region/Country Name,Latitude,Longitude,Source
+AEC,PowerSouth Energy Cooperative,Southeast,31.72997225,-86.33861697,HIFLD
+AECI,"Associated Electric Cooperative, Inc.",Midwest,38.09924551,-93.06253034,HIFLD
+AVA,Avista Corporation,Northwest,47.03916728,-116.9054916,HIFLD
+AVRN,"Avangrid Renewables, LLC",Northwest,43.49461974,-120.778571,HIFLD
+AZPS,Arizona Public Service Company,Southwest,33.71051745,-112.0636835,HIFLD
+BANC,Balancing Authority of Northern California,California,40.04573707,-122.615278,HIFLD
+BPAT,Bonneville Power Administration,Northwest,44.86867302,-117.4249313,HIFLD
+CHPD,Public Utility District No. 1 of Chelan County,Northwest,47.86911132,-120.6185506,HIFLD
+CISO,California Independent System Operator,California,36.91074754,-119.5019411,HIFLD
+CPLE,Duke Energy Progress East,Carolinas,35.01677013,-78.77289497,HIFLD
+CPLW,Duke Energy Progress West,Carolinas,35.66392869,-82.52908224,HIFLD
+DEAA,"Arlington Valley, LLC",Southwest,33.35078279,-112.8881041,HIFLD
+DOPD,PUD No. 1 of Douglas County,Northwest,48.25108612,-119.6057857,HIFLD
+DUK,Duke Energy Carolinas,Carolinas,35.33998408,-81.25109249,HIFLD
+EEI,"Electric Energy, Inc.",Midwest,37.13230667,-88.71026975,HIFLD
+EPE,El Paso Electric Company,Southwest,30.9347465,-103.7033031,HIFLD
+ERCO,"Electric Reliability Council of Texas, Inc.",Texas,31.22044445,-98.75898056,HIFLD
+FMPP,Florida Municipal Power Pool,Florida,28.08262578,-81.2631985,HIFLD
+FPC,"Duke Energy Florida, Inc.",Florida,29.00457632,-82.4890671,HIFLD
+FPL,Florida Power & Light Co.,Florida,27.62486356,-81.28274075,HIFLD
+GCPD,"Public Utility District No. 2 of Grant County, Washington",Northwest,47.20535393,-119.4511203,HIFLD
+GLHB,GridLiance,Midwest,32.866769,-96.940735,Headquarters (transmission only)
+GRID,"Gridforce Energy Management, LLC",Northwest,45.62971351,-119.0950263,HIFLD
+GRIF,"Griffith Energy, LLC",Southwest,34.85300255,-113.884709,HIFLD
+GRMA,"Gila River Power, LLC",Southwest,32.40178399,-112.5025115,HIFLD
+GVL,Gainesville Regional Utilities,Florida,29.6748267,-82.35773423,HIFLD
+GWA,"NaturEner Power Watch, LLC",Northwest,48.41760997,-112.4329762,HIFLD
+HGMA,"New Harquahala Generating Company, LLC",Southwest,33.85915082,-113.2352918,HIFLD
+HST,City of Homestead,Florida,25.61408671,-80.56888578,HIFLD
+IID,Imperial Irrigation District,California,33.23508094,-115.5748959,HIFLD
+IPCO,Idaho Power Company,Northwest,43.83216673,-116.0573537,HIFLD
+ISNE,ISO New England,New England,44.18626371,-70.68413119,HIFLD
+JEA,JEA,Florida,30.4743566,-83.7300341,HIFLD
+LDWP,Los Angeles Department of Water and Power,California,36.17035128,-118.1666455,HIFLD
+LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,Midwest,37.66081101,-85.44699791,HIFLD
+MISO,"Midcontinent Independent System Operator, Inc.",Midwest,41.44976833,-92.85774117,HIFLD
+NEVP,Nevada Power Company,Northwest,39.17879498,-116.3828584,HIFLD
+NSB,Utilities Commission of New Smyrna Beach,Florida,29.06241918,-81.18950942,HIFLD
+NWMT,NorthWestern Corporation,Northwest,46.75258578,-110.0741425,HIFLD
+NYIS,New York Independent System Operator,New York,42.9234566,-75.50481288,HIFLD
+OVEC,Ohio Valley Electric Corporation,Mid-Atlantic,39.07737144,-83.06685415,HIFLD
+PACE,PacifiCorp East,Northwest,40.03652543,-110.4907299,HIFLD
+PACW,PacifiCorp West,Northwest,43.47883202,-121.2062837,HIFLD
+PGE,Portland General Electric Company,Northwest,45.24218828,-122.6263728,HIFLD
+PJM,"PJM Interconnection, LLC",Mid-Atlantic,39.39017816,-80.6727071,HIFLD
+PNM,Public Service Company of New Mexico,Southwest,34.65959302,-106.2539011,HIFLD
+PSCO,Public Service Company of Colorado,Northwest,39.08824604,-106.2642661,HIFLD
+PSEI,"Puget Sound Energy, Inc.",Northwest,47.86720555,-121.830033,HIFLD
+SC,South Carolina Public Service Authority,Carolinas,33.74741466,-80.47790302,HIFLD
+SCEG,South Carolina Electric & Gas Company,Carolinas,33.42389888,-81.0670647,HIFLD
+SCL,Seattle City Light,Northwest,47.6166904,-122.3275051,HIFLD
+SEC,Seminole Electric Cooperative,Florida,29.09887872,-82.5205078,HIFLD
+SEPA,Southeastern Power Administration,Southeast,36.16070252,-90.67023967,HIFLD
+SOCO,"Southern Company Services, Inc. - Trans",Southeast,32.34379639,-85.43109348,HIFLD
+SPA,Southwestern Power Administration,Central,31.13119412,-84.81491205,HIFLD
+SRP,Salt River Project Agricultural Improvement and Power District,Southwest,33.35541296,-112.3899527,HIFLD
+SWPP,Southwest Power Pool,Central,39.97973746,-99.26695335,HIFLD
+TAL,City of Tallahassee,Florida,30.47268392,-84.26877942,HIFLD
+TEC,Tampa Electric Company,Florida,27.97498033,-82.19246381,HIFLD
+TEPC,Tucson Electric Power,Southwest,34.82409369,-113.6224309,HIFLD
+TIDC,Turlock Irrigation District,California,37.48890851,-120.9492921,HIFLD
+TPWR,"City of Tacoma, Department of Public Utilities, Light Division",Northwest,47.06184633,-122.2583941,HIFLD
+TVA,Tennessee Valley Authority,Tennessee,35.38193893,-86.93111225,HIFLD
+WACM,Western Area Power Administration - Rocky Mountain Region,Northwest,36.00648323,-114.2571258,HIFLD
+WALC,Western Area Power Administration - Desert Southwest Region,Southwest,41.33347792,-105.6196768,HIFLD
+WAUE,Western Area Power Administration - Upper Great Plains East,Northwest,46.740475,-102.233869,
+WAUW,Western Area Power Administration - Upper Great Plains West,Northwest,46.95536971,-107.2261733,HIFLD
+WWA,"NaturEner Wind Watch, LLC",Northwest,48.86057028,-112.1008164,HIFLD
+YAD,"Alcoa Power Generating, Inc. - Yadkin Division",Carolinas,35.53201745,-80.1253558,HIFLD
+AESO,Alberta Electric System Operator,Canada,50.96655,-113.88758,
+BCHA,British Columbia Hydro and Power Authority,Canada,49.32541,-122.78571,
+HQT,Hydro-Quebec TransEnergie,Canada,45.50835,-73.56226,
+IESO,Ontario IESO,Canada,43.47967,-79.6381,
+MHEB,Manitoba Hydro,Canada,49.84181,-97.1794,
+NBSO,New Brunswick System Operator,Canada,46.12247382,-68.34041469,HIFLD
+SPC,Saskatchewan Power Corporation,Canada,50.3837,-104.6385,
+CEN,Centro Nacional de Control de Energia,Mexico,25.72985,-100.30378,
+CFE,Comision Federal de Electricidad,Mexico,27.28189,-101.49094,
